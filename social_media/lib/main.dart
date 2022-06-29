@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Container(
-        color: Colors.white,
+        color: Colors.blue,
         child: FlutterLogo(size: MediaQuery.of(context).size.height));
   }
 }
